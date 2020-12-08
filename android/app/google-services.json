@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323229224172",
+    "firebase_url": "https://tghs-c4b69.firebaseio.com",
+    "project_id": "tghs-c4b69",
+    "storage_bucket": "tghs-c4b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323229224172:android:d368f48f3a0794f9e229c9",
+        "android_client_info": {
+          "package_name": "com.TGHS.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323229224172-u99864b1n0vld7205bdjo2uotlupbg5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPCgH3UK7Om3pJEL_BfsqMG89ylp5oEew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323229224172-u99864b1n0vld7205bdjo2uotlupbg5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
